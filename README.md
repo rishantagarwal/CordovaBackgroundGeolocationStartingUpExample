@@ -20,7 +20,7 @@ Also, more info on the Plugin configuration can be found at [Cordova Background 
 
 ##Screenshots
 
-![Screen](https://github.com/rishantagarwal/CordovaBackgroundGeolocationStartingUpExample/blob/master/snapshots/screen.png)
+![Screen](https://github.com/rishantagarwal/CordovaBackgroundGeolocationStartingUpExample/blob/master/snapshots/screen2.png)
 
 ##Credits
 
