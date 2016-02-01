@@ -6,6 +6,11 @@ angular.module('starter.controllers', [])
     bgGeoService.initialize();
     bgGeoService.start();
   };
+
+  $scope.stopGeolocation = function(){
+    bgGeoService.stop();
+   
+  };
 })
 
 .controller('ChatsCtrl', function($scope, Chats) {
