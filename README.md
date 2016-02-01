@@ -18,6 +18,10 @@ More info on using Ionic Projects can be found on the Ionic [Getting Started](ht
 
 Also, more info on the Plugin configuration can be found at [Cordova Background Geolocation Plugin](https://github.com/transistorsoft/cordova-background-geolocation-lt)
 
+##Screenshots
+
+![Screen](https://github.com/rishantagarwal/CordovaBackgroundGeolocationStartingUpExample/blob/master/snapshots/screen.png)
+
 ##Credits
 
 1. The code is built using Ionic Tabs Template.
