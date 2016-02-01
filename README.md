@@ -1,19 +1,18 @@
 Ionic App with Cordova Background Geolocation Plugin 
 =====================
 
-A starting project for using Background Geolocation Plugin. It has been coupled with "tabs" template from Ionic. 
+A starting project for using Background Geolocation Plugin.
+It has been coupled with "tabs" template from Ionic. 
 
 ## Using this project
 
 1. Clone this Project.
 2. Install the Cordova Background Geolocation Plugin using the following command.
+3. Build the project and use it.
 
 ```bash
 $ cordova plugin add https://github.com/transistorsoft/cordova-background-geolocation-lt.git
 ```
-
-3. Build the project and use it.
-
 
 More info on using Ionic Projects can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
 
