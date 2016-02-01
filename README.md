@@ -1,25 +1,30 @@
-Ionic App Base
+Ionic App with Cordova Background Geolocation Plugin 
 =====================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+A starting project for using Background Geolocation Plugin. It has been coupled with "tabs" template from Ionic. 
 
 ## Using this project
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
-
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
-
-```bash
-$ npm install -g ionic
-```
-
-Then run:
+1. Clone this Project.
+2. Install the Cordova Background Geolocation Plugin using the following command.
 
 ```bash
-$ ionic start myProject tabs
+$ cordova plugin add https://github.com/transistorsoft/cordova-background-geolocation-lt.git
 ```
 
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
+3. Build the project and use it.
+
+
+More info on using Ionic Projects can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
+
+Also, more info on the Plugin configuration can be found at [Cordova Background Geolocation Plugin](https://github.com/transistorsoft/cordova-background-geolocation-lt)
+
+##Credits
+
+1. The code is built using Ionic Tabs Template.
+2. It is using the plugin from [Repository](https://github.com/transistorsoft/cordova-background-geolocation-lt). 
 
 ## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+1. For any plugin related issues please create issues with the above repository.
+2. For any Ionic related issues post issues on Ionic repository.
+3. For anything else feel free to contact me.
