@@ -35,9 +35,9 @@ Also, more info on the Plugin configuration can be found at [Cordova Background 
 ## Setting up Project from Scratch
 1. Git cloned the repo.
 2. Installed npm through Node
-3. Used npm install to install required packages.
-4. Installed cordova through npm install -g cordova
-5. Then added cordova plugin through 'cordova plugin add https://github.com/transistorsoft/cordova-background-geolocation-lt.git'
+3. Used `npm install` to install required packages.
+4. Installed cordova through `npm install -g cordova`
+5. Then added cordova plugin through `cordova plugin add https://github.com/transistorsoft/cordova-background-geolocation-lt.git`
 6. Then added ios as platform `cordova platform add ios`
-7. Then build the project using cordova build
+7. Then build the project using `cordova build`
 8. App is ready !
